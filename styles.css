@@ -1,0 +1,81 @@
+*{
+     
+    font-family: 'Roboto', sans-serif;
+
+}
+body{
+   
+    margin: 0;        
+    padding: 0;      
+ box-sizing: border-box;
+    
+}
+.sorteio{
+    margin-left: 410px;
+     color: rgb(145, 72, 214);
+}
+.logo{
+    margin-left: 200px;
+}
+.quadrado{
+
+    background: rgb(38, 0, 255);
+  width: 972px;
+height: 600px;
+margin-left: 200px;
+}
+.caixa{
+    margin-left: 360px;
+      display:flex;
+  justify-content: space-between;
+}
+.caixa-min{
+    width: 120px;
+    height: 25px;
+     margin-left: 350px;
+     display: flex;
+    justify-content: space-between;
+
+
+}
+
+
+
+.caixa-max{
+ width: 120px;
+height: 25px;
+display: flex;
+ justify-content: space-between;
+margin-left:500px ;
+margin-top: -50px;
+}
+.caixa-quantidade{
+    margin-left:390px;
+    margin-top: 10px;
+
+
+}
+
+.sortear{
+
+    margin-left: 460px;
+    width: 100px; 
+    height: 50px;
+    cursor: pointer;
+    margin-top: -160px;
+    background: linear-gradient(blue, purple);
+    font-size: 20px;
+    
+    color: azure;
+}
+sortear:hover{
+    opacity: 10;
+}
+sortear:active{
+    opacity: 20;
+}
+.final{
+    margin-top: -30px;
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+}
