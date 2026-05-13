@@ -2,4 +2,5 @@
 <br>
 <br>
 <br>
-<img https://raw.githubusercontent.com/SamuelPitta/devsorteio/826d3e93b9eeeb699cd80a49ac74fb9e4ad5756c/Template/computadorsorteio.png/>
+<img width="1021" height="478" alt="computadorsorteio" src="https://github.com/user-attachments/assets/3a0b2c9e-c36b-418a-8977-dc22a78f8837" />
+>
